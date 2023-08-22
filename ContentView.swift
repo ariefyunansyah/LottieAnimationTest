@@ -18,7 +18,9 @@ struct ContentView: View {
         }
         .frame(width: 420, height: 360)
         .cornerRadius(30)
-       
+        VStack{
+            
+        }
     }
 }
 
